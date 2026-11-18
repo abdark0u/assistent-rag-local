@@ -1,0 +1,8 @@
+streamlit
+chromadb
+pymupdf
+pymupdf4llm
+llama-index-core
+llama-index-llms-ollama
+llama-index-embeddings-ollama
+llama-index-vector-stores-chroma
